@@ -1,0 +1,4 @@
+1. Buka CMD
+2. Pindahin ke direktori file GoClean
+3. Ketik "g++ *cpp -o GoClean" GoClean ini bisa diganti pake apa aja
+4. Ketik ".\GoClean" sesuai nama yang diatas
